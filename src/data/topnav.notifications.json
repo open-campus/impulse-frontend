@@ -1,0 +1,29 @@
+{
+    "data": [
+      {
+        "image" : "/assets/img/profile-pic-l-2.jpg",
+        "message": "Okubanjo Samson submitted a thesis!",
+        "date" : "09.04.2018 - 12:45",
+        "id": 1
+      },
+      {
+        "image" : "/assets/img/notification-thumb.jpg",
+        "message": "Akinola Raymond reviewed your publication!",
+        "date" : "09.04.2018 - 12:45",
+        "id": 2
+      },
+      {
+        "image" : "/assets/img/notification-thumb-2.jpg",
+        "message": "New message from WHO Private Account.",
+        "date" : "09.04.2018 - 12:45",
+        "id": 3
+      },
+      {
+        "image" : "/assets/img/notification-thumb-3.jpg",
+        "message": "3 items just added to wish list by a user!",
+        "date" : "09.04.2018 - 12:45",
+        "id": 4
+      }
+    ]
+  }
+  
